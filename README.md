@@ -27,9 +27,12 @@ Tidak diperlukan GPS, OLED, atau modul Wi-Fi eksternal.
 
 ## Wiring
 
-![Wiring YG3FSL LoRa APRS iGate](images/wiring-igate-yg3fsl.png)
+## Wiring Diagram
 
-Versi vektor: [wiring-igate-yg3fsl.svg](images/wiring-igate-yg3fsl.svg)
+Berikut koneksi ESP32-C3 SuperMini dengan modul
+RA-02 SX1278 yang digunakan pada proyek ini.
+
+![Wiring Diagram YG3FSL LoRa APRS iGate](wiring-igate-yg3fsl.png)
 
 | Pin RA-02 | ESP32-C3 SuperMini | Fungsi |
 |---|---|---|
